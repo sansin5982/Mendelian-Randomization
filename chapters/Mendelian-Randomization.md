@@ -5,12 +5,12 @@
 **Mendelian Randomization (MR)** is an analytical approach that
 leverages genetic variants as **instrumental variables** to **infer
 causal relationship between exposure (e.g., lifestyle factor or
-biomarker) and an outcome (e.g., disease risk)**. If there is a cusal
+biomarker) and an outcome (e.g., disease risk)**. If there is a causal
 relationship between two variables it also **estimate magnitude of
 causal effect**. MR is based on the principle that genetic variants are
-randomlly allocated at conception and are thus **less likely to
+randomly allocated at conception and are thus **less likely to
 influenced by confounding factors** or **reverse causation**, which are
-common issues in observationals studies.
+common issues in observational studies.
 
 <img src="Figures/reverse causation.jpg" alt="Figure 1: Reverse Causation"  />
 <p class="caption">
@@ -68,27 +68,27 @@ offspring.
 -   **Definition**:
     -   Genes for different traits assort independently of one another
         during gamete formation, given that the genes are located on
-        different chromosomes.
+        different chromosomes. <br> <br>
 -   **Explanation**:
     -   When genes are located on different chromosomes, the inheritance
         of one trait does not influence the inheritance of another.
 
-    -   This leads to genetic variation in offspring.
+    -   This leads to genetic variation in offspring. <br> <br>
 -   **Example**:
     -   In a dihybrid cross involving pea plants, if we consider two
         traits—seed shape (Round, R vs. Wrinkled, r) and seed color
         (Yellow, Y vs. Green, y)—the inheritance of seed shape is
         independent of seed color.
 
-    -   A cross between RrYy × RrYy will produce offspring with various
-        combinations of these traits in a 9:3:3:1 ratio.
+    -   **A cross between RrYy × RrYy** will produce offspring with
+        various combinations of these traits in a 9:3:3:1 ratio.
 
 #### 3. Law of Dominance (Third Law)
 
 -   **Definition**:
     -   When two different alleles for a trait are present in an
         organism, one allele may dominate over the other, masking its
-        effect.
+        effect. <br> <br>
 -   **Explanation**:
     -   The dominant allele is expressed in the phenotype, while the
         recessive allele remains hidden unless an organism has two
@@ -207,8 +207,8 @@ pleiotropy and other biases in MR:
 
 ### 2. MR-Egger Regression
 
--   Allows for the presence of pleiotropy by modelling thr intercept to
-    test for bias. <br> <br>
+-   Allows for the **presence of pleiotropy** by modelling the intercept
+    to test for bias. <br> <br>
 -   If the intercept deviates from zero, it indicates potential
     pleiotropy.
 
@@ -242,7 +242,7 @@ research, including:
 
 ### 1. Cardiovascular Disease (CVD):
 
--   Causal effects of LDL cholesterol, blood pressure, and obesity on
+-   Causal effects of LDL, cholesterol, blood pressure, and obesity on
     CVD risk.
 
 ### 2. Cancer Risk:
@@ -330,14 +330,19 @@ between SNPs, gene expression, and phenotypic traits.
 ### 1. MR in Diverse Populations:
 
 -   Expanding studies to non-European populations to improve
-    generalizability. \### 2. MR using Single-Cell Data:
+    generalizability.
+
+### 2. MR using Single-Cell Data:
 
 -   Leveraging single-cell genomics to understand cell-type-specific
-    causal relationships. \### 3. Multi-Omics MR:
+    causal relationships.
+
+### 3. Multi-Omics MR:
 
 -   Integrating genomics, epigenomics, and proteomics data for a
-    holistic understanding of causal pathways. \### 4. Machine Learning
-    and MR:
+    holistic understanding of causal pathways.
+
+### 4. Machine Learning and MR:
 
 -   Application of AI/ML approaches to improve instrument selection and
     causal inference.
