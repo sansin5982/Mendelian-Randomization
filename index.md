@@ -2,4 +2,4 @@
 
 Chapters:
 
--   [Mendelian Randomization](chapters/Mendelian%20Randomization)
+-   [Mendelian Randomization](chapters/Mendelian-Randomization)
