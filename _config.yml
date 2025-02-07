@@ -4,3 +4,6 @@ theme: jekyll-theme-cayman
 title: "Mendelian Randomization"
 description: "Using genes to inform causality"
 
+# Enable navigation links
+include:
+    - chapters/
