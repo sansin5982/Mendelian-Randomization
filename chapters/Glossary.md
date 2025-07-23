@@ -1,3 +1,10 @@
+<script type="text/javascript" async
+    src="https://polyfill.io/v3/polyfill.min.js?features=es6">
+</script>
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
 # Glossary
 
 ## Mendelian Randomization
@@ -34,7 +41,7 @@ lifestyle, this helps avoid **confounding** and **reverse causation**.
 
 #### In short:
 
-***Mendelian Randomization helps answer: “Does X cause Y?” — using your
+***Mendelian Randomization helps answer: “Does X cause Y?” — using our
 genes as unbiased clues***.
 
 ------------------------------------------------------------------------
@@ -125,7 +132,7 @@ because of everything else*.
 
 An **instrumental variable** is something that:
 
--   Affects the thing you’re interested in (like how many vegetables
+-   Affects the thing we are interested in (like how many vegetables
     someone eats),
 -   Isn’t related to other messy stuff (like income or lifestyle), and
 -   Affects the outcome only through that thing (i.e., it affects health
@@ -179,7 +186,7 @@ all:
 -   **Act independently** (not too strongly correlated)
 -   Together give a **clearer, stronger signal**
 
-This is like having **many clues** instead of just one, which makes your
+This is like having **many clues** instead of just one, which makes our
 conclusion more reliable.
 
 -   Using multiple instruments **increases statistical power** (more
@@ -191,7 +198,7 @@ conclusion more reliable.
 
 #### In short:
 
-***Multiple instruments = using many genetic clues to make your causal
+***Multiple instruments = using many genetic clues to make our causal
 answer stronger, more accurate, and more trustworthy.***
 
 ------------------------------------------------------------------------
@@ -233,7 +240,7 @@ causes heart disease**.
 
 #### In short:
 
-***A Genetic Risk Score is like adding up your “genetic points” for a
+***A Genetic Risk Score is like adding up our “genetic points” for a
 trait — and it helps scientists study how that trait might truly cause
 disease.***
 
@@ -255,13 +262,12 @@ pressure). But if those variants:
 When our instruments are weak:
 
 -   The **causal estimate becomes unreliable**
--   The result can be **biased**, especially if your sample size is
-    small
+-   The result can be **biased**, especially if our sample size is small
 -   The MR can behave more like a **regular observational study**, which
     defeats the purpose!
 
 It’s like trying to measure the weight of an elephant with a **kitchen
-scale** — it’s not strong enough, so your reading will be off.
+scale** — it’s not strong enough, so our reading will be off.
 
 -   Calculate the **F-statistic** — if it’s below **10**, it may
     indicate weak instruments.
@@ -270,7 +276,7 @@ scale** — it’s not strong enough, so your reading will be off.
 
 ##### In short:
 
-***Weak Instrument Bias happens when your genetic tools are too weak to
+***Weak Instrument Bias happens when our genetic tools are too weak to
 properly represent the trait — leading to wrong or misleading
 conclusions.***
 
@@ -373,13 +379,13 @@ Let’s say we want to know:
 > “If body weight (BMI) increases, how much does the risk of diabetes go
 > up?”
 
-Using MR, you might find:
+Using MR, we might find:
 
 > **Each 1 unit increase in genetically predicted BMI increases diabetes
 > risk by 20%.**
 
-That 20% is your **causal effect estimate** — it tells you how strong
-the cause-and-effect link is between BMI and diabetes.
+That 20% is our **causal effect estimate** — it tells we how strong the
+cause-and-effect link is between BMI and diabetes.
 
 #### How is it calculated?
 
@@ -456,7 +462,7 @@ unit BMI**.
 
 #### In short:
 
-***The Wald Ratio is a simple formula that tells you how much a trait
+***The Wald Ratio is a simple formula that tells us how much a trait
 affects disease by dividing how much a gene affects the disease by how
 much it affects the trait.***
 
@@ -499,7 +505,7 @@ Clumping keeps:
 
 #### In short:
 
-***Clumping (LD pruning) is like cleaning your SNP list — it keeps only
+***Clumping (LD pruning) is like cleaning our SNP list — it keeps only
 the strongest, independent genetic signals and throws out the ones that
 are too closely related.***
 
@@ -585,7 +591,7 @@ In this case:
 ### What’s the risk?
 
 If pleiotropy is **not balanced** (i.e., mostly in one direction), it’s
-called **directional pleiotropy** — and that **can bias your MR
+called **directional pleiotropy** — and that **can bias our MR
 results**.
 
 ### How to check?
@@ -605,7 +611,7 @@ be trusted.***
 
 ## F-statistic
 
-The **F-statistic** is a number that tells us **how strong your genetic
+The **F-statistic** is a number that tells us **how strong our genetic
 instrument** is in Mendelian Randomization (MR). It helps answer the
 question:
 
@@ -649,8 +655,8 @@ automatically.
 
 #### In short:
 
-***The F-statistic tells you how strong your genetic instrument is. If
-it’s too low (below 10), your MR results might not be reliable.***
+***The F-statistic tells us how strong our genetic instrument is. If
+it’s too low (below 10), our MR results might not be reliable.***
 
 ------------------------------------------------------------------------
 
