@@ -136,3 +136,44 @@ MR can act as a **filter** — helping decide which risk factors are
 
 -   MR doesn’t replace RCTs — but helps **prioritize what’s worth
     testing** in one.
+
+#### References
+
+Friedman, L. M., Furberg, C. D., DeMets, D. L., Reboussin, D. M., &
+Granger, C. B. (2015). Fundamentals of Clinical Trials (5th ed.).
+Springer. <https://doi.org/10.1007/978-3-319-18539-2>
+
+-   Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., &
+    Richardson, W. S. (1996). Evidence based medicine: What it is and
+    what it isn’t. BMJ, 312(7023), 71–72.
+    <https://doi.org/10.1136/bmj.312.7023.71>
+
+-   Collins, R., & MacMahon, S. (2007). Reliable assessment of the
+    effects of treatment on mortality and major morbidity, I: Clinical
+    trials. The Lancet, 357(9253), 373–380.
+    <https://doi.org/10.1016/S0140-6736(00)03643-3>
+
+-   Bothwell, L. E., Greene, J. A., Podolsky, S. H., & Jones, D. S.
+    (2016). Assessing the Gold Standard — Lessons from the History of
+    RCTs. New England Journal of Medicine, 374(22), 2175–2181.
+    <https://doi.org/10.1056/NEJMms1604593>
+
+-   Deaton, A., & Cartwright, N. (2018). Understanding and
+    misunderstanding randomized controlled trials. Social Science &
+    Medicine, 210, 2–21.
+    <https://doi.org/10.1016/j.socscimed.2017.12.005>
+
+-   Concato, J., Shah, N., & Horwitz, R. I. (2000). Randomized,
+    controlled trials, observational studies, and the hierarchy of
+    research designs. New England Journal of Medicine, 342(25),
+    1887–1892. <https://doi.org/10.1056/NEJM200006223422507>
+
+-   Ioannidis, J. P. A. (2016). Why most clinical research is not
+    useful. PLoS Medicine, 13(6), e1002049.
+    <https://doi.org/10.1371/journal.pmed.1002049>
+
+Lawlor, D. A., Harbord, R. M., Sterne, J. A., Timpson, N., & Davey
+Smith, G. (2008). Mendelian randomization: Using genes as instruments
+for making causal inferences in epidemiology. Statistics in Medicine,
+27(8), 1133–1163. <https://doi.org/10.1002/sim.3034> (Relates MR to the
+logic of RCTs — “nature’s randomized trials”)

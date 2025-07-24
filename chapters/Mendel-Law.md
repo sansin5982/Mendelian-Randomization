@@ -70,4 +70,28 @@ offspring.
 
 These laws form the foundation of classical genetics, although modern
 genetics has shown exceptions (e.g., linked genes, incomplete dominance,
-and polygenic traits)
+and polygenic traits)’
+
+#### References
+
+-   Klug, W. S., Cummings, M. R., Spencer, C. A., & Palladino, M. A.
+    (2016). Concepts of Genetics (11th ed.). Pearson Education.
+
+-   Griffiths, A. J. F., Wessler, S. R., Carroll, S. B., & Doebley, J.
+    (2020). Introduction to Genetic Analysis (12th ed.). W.H. Freeman
+    and Company. (A modern interpretation of Mendelian principles in
+    classical and molecular contexts)
+
+-   Pierce, B. A. (2017). Genetics: A Conceptual Approach (6th ed.).
+    W.H. Freeman. (Great for undergraduate teaching and Mendelian
+    examples)
+
+-   Hartl, D. L., & Ruvolo, M. (2011). Genetics: Analysis of Genes and
+    Genomes (8th ed.). Jones & Bartlett Learning. (Detailed history and
+    modern applications of Mendel’s work)
+
+-   Falk, R. (1995). The Gene: A Concept in Tension. University of
+    Chicago Press.
+
+-   Olby, R. (1985). Origins of Mendelism (2nd ed.). University of
+    Chicago Press.

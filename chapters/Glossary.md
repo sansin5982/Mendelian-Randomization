@@ -726,3 +726,58 @@ pleiotropy).</td>
 </tr>
 </tbody>
 </table>
+
+#### References
+
+-   Davey Smith, G., & Hemani, G. (2014). Mendelian randomization:
+    Genetic anchors for causal inference in epidemiological studies.
+    Human Molecular Genetics, 23(R1), R89–R98.
+    <https://doi.org/10.1093/hmg/ddu328>
+
+-   Burgess, S., & Thompson, S. G. (2015). Mendelian Randomization:
+    Methods for Using Genetic Variants in Causal Estimation. Chapman and
+    Hall/CRC Press. (Book – foundational MR statistical methods and
+    glossary terms)
+
+-   Lawlor, D. A., Harbord, R. M., Sterne, J. A. C., Timpson, N., &
+    Davey Smith, G. (2008). Mendelian randomization: Using genes as
+    instruments for making causal inferences in epidemiology. Statistics
+    in Medicine, 27(8), 1133–1163. <https://doi.org/10.1002/sim.3034>
+
+-   Hemani, G., Tilling, K., & Davey Smith, G. (2017). Orienting the
+    causal relationship between imprecisely measured traits using GWAS
+    summary data. PLoS Genetics, 13(11), e1007081.
+    <https://doi.org/10.1371/journal.pgen.1007081>
+
+-   Bowden, J., Davey Smith, G., & Burgess, S. (2015). Mendelian
+    randomization with invalid instruments: Effect estimation and bias
+    detection through Egger regression. International Journal of
+    Epidemiology, 44(2), 512–525. <https://doi.org/10.1093/ije/dyv080>
+
+-   Verbanck, M., Chen, C. Y., Neale, B., & Do, R. (2018). Detection of
+    widespread horizontal pleiotropy in causal relationships inferred
+    from Mendelian randomization between complex traits and diseases.
+    Nature Genetics, 50(5), 693–698.
+    <https://doi.org/10.1038/s41588-018-0099-7> (MR-PRESSO method and
+    pleiotropy detection)
+
+-   Sanderson, E., Davey Smith, G., Windmeijer, F., & Bowden, J. (2019).
+    An examination of multivariable Mendelian randomization in the
+    single-sample and two-sample summary data settings. International
+    Journal of Epidemiology, 48(3), 713–727.
+    <https://doi.org/10.1093/ije/dyy262>
+
+-   Palmer, T. M., Lawlor, D. A., Harbord, R. M., Sheehan, N. A.,
+    Tobias, J. H., Timpson, N. J., et al. (2012). Using multiple genetic
+    variants as instrumental variables for modifiable risk factors.
+    Statistical Methods in Medical Research, 21(3), 223–242.
+    <https://doi.org/10.1177/0962280210394459>
+
+-   Brion, M.-J. A., Shakhbazov, K., & Visscher, P. M. (2013).
+    Calculating statistical power in Mendelian randomization studies.
+    International Journal of Epidemiology, 42(5), 1497–1501.
+    <https://doi.org/10.1093/ije/dyt179>
+
+-   Davies, N. M., Holmes, M. V., & Davey Smith, G. (2018). Reading
+    Mendelian randomisation studies: A guide, glossary, and checklist
+    for clinicians. BMJ, 362, k601. <https://doi.org/10.1136/bmj.k601>
