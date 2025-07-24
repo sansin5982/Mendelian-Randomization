@@ -48,7 +48,7 @@ Let’s say “T” is the gene for **Tall** and “t” is for **Short**.
 
 So, every time it reproduces, it passes only **one** of its two alleles.
 
-<img src="Figures/Law_of_segregation.png" alt="Figure 1: Law of Segregation" width="200%" />
+<img src="Figures/Law_of_segregation.png" alt="Figure 1: Law of Segregation" width="100%" />
 <p class="caption">
 Figure 1: Law of Segregation
 </p>
