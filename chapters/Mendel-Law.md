@@ -48,7 +48,7 @@ Let’s say “T” is the gene for **Tall** and “t” is for **Short**.
 
 So, every time it reproduces, it passes only **one** of its two alleles.
 
-<img src="Figures/Law_of_segregation.png" alt="Figure 1: Law of Segregation" width="208" />
+<img src="Figures/Law_of_segregation.png" alt="Figure 1: Law of Segregation" width="200%" />
 <p class="caption">
 Figure 1: Law of Segregation
 </p>
@@ -87,7 +87,8 @@ two traits.
 The **shape** gene doesn’t affect how the **color** gene is passed on.
 They assort independently.
 
-    * **A cross between RrYy × RrYy** will produce offspring with various combinations of these traits in a 9:3:3:1 ratio.
+-   **A cross between RrYy × RrYy** will produce offspring with various
+    combinations of these traits in a 9:3:3:1 ratio.
 
 <img src="Figures/Independent.png" alt="Figure 2: Law of Independent Assortment" width="1497" />
 <p class="caption">
