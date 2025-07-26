@@ -39,6 +39,14 @@ whether **higher cholesterol really causes heart disease**.
 Since our genes are decided before birth and are not changed by our
 lifestyle, this helps avoid **confounding** and **reverse causation**.
 
+<img src="Figures/MR.png" alt="Figure: Mendelian Randomization" width="850" />
+<p class="caption">
+Figure: Mendelian Randomization
+</p>
+
+[Image
+Credit](https://www.researchgate.net/publication/344407603_Causal_association_between_mTOR-dependent_EIF-4E_and_EIF-4A_circulating_protein_levels_and_type_2_diabetes_a_Mendelian_randomization_study/figures?lo=1)
+
 #### In short:
 
 ***Mendelian Randomization helps answer: “Does X cause Y?” — using our
@@ -50,6 +58,13 @@ genes as unbiased clues***.
 
 **Pleiotropy** means **a single gene (or genetic variant)** affects
 **more than one trait** — like one switch controlling multiple lights.
+
+<img src="Figures/Pleiotropy.png" alt="Figure: Pleiotropy" width="628" />
+<p class="caption">
+Figure: Pleiotropy
+</p>
+
+[Image Credit](https://byjus.com/biology/pleiotropy/)
 
 When using genes to study whether **one thing causes another** (like
 cholesterol → heart disease), we assume: \* The gene affects the **risk
@@ -91,6 +106,14 @@ factor</strong> (which may affect other downstream traits).</td>
 </tbody>
 </table>
 
+<img src="Figures/VERT.jpg" alt="Figure: Vertical vs Horizontal Pleiotropy"  />
+<p class="caption">
+Figure: Vertical vs Horizontal Pleiotropy
+</p>
+
+[Image
+Credit](https://www.researchgate.net/publication/362846541_An_Overview_of_Methods_and_Exemplars_of_the_Use_of_Mendelian_Randomisation_in_Nutritional_Research/figures?lo=1)
+
 #### Example:
 
 A gene that:
@@ -106,8 +129,6 @@ rules** of Mendelian Randomization.
 ***Pleiotropy means one gene affects many things. In MR, we worry about
 this only if it affects the outcome through a different route than the
 one we’re trying to study.***
-
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -152,6 +173,14 @@ For example:
 
 So we can use that **gene as an IV** to study whether eating more
 vegetables truly causes better health.
+
+<img src="Figures/IV.png" alt="Figure: Instrument Variable" width="732" />
+<p class="caption">
+Figure: Instrument Variable
+</p>
+
+[Image
+Credit](https://yutatoyama.github.io/AppliedEconometrics/instrumental-variable-1-framework.html)
 
 #### In short:
 
@@ -289,6 +318,14 @@ affects **both** the thing we are studying (**exposure**) and the
 **outcome** — making it **look like they’re related**, even if they’re
 not.
 
+<img src="Figures/confounding.jpg" alt="Figure: Properties of a confounder"  />
+<p class="caption">
+Figure: Properties of a confounder
+</p>
+
+[Image
+Credit](https://www.sciencedirect.com/science/article/pii/S0085253815529748)
+
 #### Example:
 
 -   People who carry **lighters** are more likely to get **lung
@@ -330,6 +367,14 @@ affected by those hidden influences.***
 
 **Reverse causation** is when we **get the direction of cause and effect
 wrong** — we think **A causes B**, but actually **B causes A**.
+
+<img src="Figures/reverse causation.jpg" alt="Figure: Reverse Causation"  />
+<p class="caption">
+Figure: Reverse Causation
+</p>
+
+[Image
+Credit](https://nap.nationalacademies.org/read/11908/chapter/10#157)
 
 #### Example:
 
