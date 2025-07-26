@@ -53,7 +53,8 @@ So, every time it reproduces, it passes only **one** of its two alleles.
 Figure 1: Law of Segregation
 </p>
 
-[Image Credit](https://www.pathwayz.org/Tree/Plain/LAW+OF+SEGREGATION)
+[Image
+Credit](https://www.sciencefacts.net/mendels-law-of-segregation.html)
 
 Imagine your mom gives you one shoe, and your dad gives you one shoe.
 You now have a pair. But when you grow up and have kids, you randomly
