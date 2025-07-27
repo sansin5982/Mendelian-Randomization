@@ -7,3 +7,4 @@ Chapters:
 -   [Mendel’s Law](chapters/Mendel-Law)
 -   [Randomized Controlled Trials (RCTs)](chapters/RCT)
 -   [Mendelian Randomization](chapters/Mendelian-Randomization)
+-   [MR Practical](chapters/MR-Practical)
